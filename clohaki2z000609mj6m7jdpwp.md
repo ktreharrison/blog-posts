@@ -7,8 +7,6 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698935897035/ab58d5c
 
 ---
 
-a-programmer-enjoying-editing-digital-art
-
 Are you tired of the same old terminal-based text editors? Looking for a fresh and more efficient way to work with your code and text files? In this quick 5-minute read, I’ll introduce you to some exciting alternatives to nano, Vim, and Neovim that are changing the game. Let’s dive in and discover the key features and benefits of these text editors:
 
 ### 1\. Ox Editor: The Elegant Newcomer
@@ -26,15 +24,11 @@ Ox Editor is an up-and-coming terminal-based text editor that’s gaining recogn
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698935883436/a2b97437-39a4-4e79-b3e9-f742cb95f9a0.png align="center")
 
-Ox terminal screenshot
-
 You can view the [**GitHub repo here.**](https://github.com/curlpipe/ox)
 
 #### 2\. micro: Minimalism Meets Power
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698935885103/03627abd-16e5-4824-9060-7368f896b6d6.jpeg align="center")
-
-Micro logo
 
 Micro is a testament to the idea that a lightweight, minimalistic design can still deliver power and efficiency. It’s an ideal choice for those who appreciate a clean and straightforward approach to text editing:
 
@@ -46,8 +40,6 @@ Micro is a testament to the idea that a lightweight, minimalistic design can sti
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698935887260/421b5a83-06ab-4023-b716-f31b2d8a922f.png align="center")
-
-Micro terminal screenshot
 
 You can view the [**website**](https://micro-editor.github.io/) **here.**
 
@@ -66,8 +58,6 @@ Helix is the choice for those who demand speed and extensibility in a text edito
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698935890915/ad252d2f-bc32-494a-a7e8-e2e4b74cd53b.png align="center")
 
-Helix terminal screenshot
-
 You can view the [**website here**](https://helix-editor.com/)**.**
 
 #### 4\. ash: The Linux-Exclusive Contender
@@ -84,8 +74,6 @@ If you’re a Linux user, ash is a text editor that’s designed with your needs
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698935894504/933b7640-a4b8-4ad1-9659-12e7c764b6b3.png align="left")
-
-ash terminal screenshot
 
 You can view the [**website here.**](https://akashnag.github.io/ash/)
 
