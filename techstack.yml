@@ -1,7 +1,8 @@
 repo_name: ktreharrison/blog-posts
-report_id: e5064a4106fca14596129bbde1baeb55
+report_id: 7427f0dbe6a81ead7041af5f72437981
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:27:31+00:00'
+timestamp: '2024-01-04T14:53:51+00:00'
 requested_by: ktreharrison
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ktreharrison/blog-posts
   detection_source: Repo Metadata
